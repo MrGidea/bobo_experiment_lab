@@ -1,0 +1,7 @@
+Question: Given an English sentence, translate it into Chinese. I love to learn new things every day. Answer: 我每天喜欢学习新事物.
+
+Question: Given a text input, add 1 to all the numbers. The meeting tomorrow starts at 9, remember to arrive on time. Answer: The meeting tomorrow starts at 10, remember to arrive on time.
+
+Question: Edit the following sentence to make it grammatically clearer. \nHe is very tall and plays basketball well. Answer: He is very tall and plays basketball very well.
+
+Question: Given the names of the following two animals, determine which animal group they belong to; sharks and seahorses. Answer: Sharks belong to fish, while seahorses belong to the order Seahorse, which is the order Seahorse.
